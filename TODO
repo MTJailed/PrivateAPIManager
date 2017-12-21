@@ -1,0 +1,18 @@
+# What needs to be done
+## Functionality
+	- Improve verbosity
+	- Add reverse engineered private APIs
+	- Add MTFTP for live extraction
+	- Add improved type checks for parameters
+	- Add more Example Projects
+
+## Security
+	- Improve input validation
+	- Improve exception handling
+
+## Documentation
+	- Add more proof-of-concepts
+	- Fix typos in the documentation
+	- Add tutorial videos
+	- Do responsible disclosure to Apple
+
